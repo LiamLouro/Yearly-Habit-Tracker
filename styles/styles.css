@@ -1,0 +1,10 @@
+body {
+  background-color: #7886C7;
+  font-family: sans-serif;
+  color: #FFFFF2
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
